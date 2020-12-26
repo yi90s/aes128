@@ -1,2 +1,0 @@
-Hello Dear marker:  
-I think there is something wrong the my user account on school's Linux machine, and i was not able to compile the c code on the schools' machines. Would you mind trying to compile the code on a machine that has up-to-date clang compiler if its not working?  The AES encryption work correctly but i was not able to get the decryption part done. I spent weeks on this assignment, please try to make the program running if you can. Thanks ! 
